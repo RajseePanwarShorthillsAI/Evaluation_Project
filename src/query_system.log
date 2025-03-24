@@ -1,0 +1,132 @@
+2025-03-24 15:58:08,092 - INFO - Frontend page loaded.
+2025-03-24 15:58:08,092 - INFO - Attempting to connect to Weaviate...
+2025-03-24 15:58:08,523 - INFO - HTTP Request: GET https://zjrqw1rwbc25okvovwg.c0.asia-southeast1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+2025-03-24 15:58:08,637 - INFO - HTTP Request: GET https://pypi.org/pypi/weaviate-client/json "HTTP/1.1 200 OK"
+2025-03-24 15:58:08,802 - INFO - Use pytorch device_name: cpu
+2025-03-24 15:58:08,802 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-24 15:58:11,951 - INFO - Successfully connected to Weaviate!
+2025-03-24 15:58:11,955 - INFO - Weaviate connection closed.
+2025-03-24 15:58:37,758 - INFO - Frontend page loaded.
+2025-03-24 15:58:37,758 - INFO - Attempting to connect to Weaviate...
+2025-03-24 15:58:37,949 - INFO - Frontend page loaded.
+2025-03-24 15:58:37,949 - INFO - Attempting to connect to Weaviate...
+2025-03-24 15:58:38,026 - INFO - HTTP Request: GET https://zjrqw1rwbc25okvovwg.c0.asia-southeast1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+2025-03-24 15:58:38,098 - INFO - HTTP Request: GET https://pypi.org/pypi/weaviate-client/json "HTTP/1.1 200 OK"
+2025-03-24 15:58:38,272 - INFO - Use pytorch device_name: cpu
+2025-03-24 15:58:38,272 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-24 15:58:38,294 - INFO - HTTP Request: GET https://zjrqw1rwbc25okvovwg.c0.asia-southeast1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+2025-03-24 15:58:38,339 - INFO - HTTP Request: GET https://pypi.org/pypi/weaviate-client/json "HTTP/1.1 200 OK"
+2025-03-24 15:58:38,501 - INFO - Use pytorch device_name: cpu
+2025-03-24 15:58:38,501 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-24 15:58:41,502 - INFO - Successfully connected to Weaviate!
+2025-03-24 15:58:41,745 - INFO - Successfully connected to Weaviate!
+2025-03-24 15:58:41,746 - INFO - Received query: 'Who discovered the sea route to India in 1498?'
+2025-03-24 15:58:41,746 - INFO - Creating embedding for the query...
+2025-03-24 15:59:18,755 - INFO - Retrieving relevant document chunks from Weaviate...
+2025-03-24 15:59:18,755 - INFO - Generating answer using Ollama...
+2025-03-24 15:59:18,755 - INFO - Query processed successfully!
+2025-03-24 15:59:18,757 - INFO - Logged query: 'Who discovered the sea route to India in 1498?' | Time taken: 37.01 sec
+2025-03-24 15:59:18,759 - INFO - Weaviate connection closed.
+
+2025-03-24 16:02:41,298 - INFO - Frontend page loaded.
+2025-03-24 16:02:41,298 - INFO - Attempting to connect to Weaviate...
+2025-03-24 16:02:41,570 - INFO - HTTP Request: GET https://zjrqw1rwbc25okvovwg.c0.asia-southeast1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+2025-03-24 16:02:41,624 - INFO - HTTP Request: GET https://pypi.org/pypi/weaviate-client/json "HTTP/1.1 200 OK"
+2025-03-24 16:02:41,818 - INFO - Use pytorch device_name: cpu
+2025-03-24 16:02:41,818 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-24 16:02:45,092 - INFO - Successfully connected to Weaviate!
+2025-03-24 16:02:45,096 - INFO - Weaviate connection closed.
+2025-03-24 16:02:59,442 - INFO - Frontend page loaded.
+2025-03-24 16:02:59,442 - INFO - Attempting to connect to Weaviate...
+2025-03-24 16:02:59,634 - INFO - Frontend page loaded.
+2025-03-24 16:02:59,634 - INFO - Attempting to connect to Weaviate...
+2025-03-24 16:02:59,947 - INFO - HTTP Request: GET https://zjrqw1rwbc25okvovwg.c0.asia-southeast1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+2025-03-24 16:02:59,965 - INFO - HTTP Request: GET https://zjrqw1rwbc25okvovwg.c0.asia-southeast1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+2025-03-24 16:03:00,092 - INFO - HTTP Request: GET https://pypi.org/pypi/weaviate-client/json "HTTP/1.1 200 OK"
+2025-03-24 16:03:00,094 - INFO - HTTP Request: GET https://pypi.org/pypi/weaviate-client/json "HTTP/1.1 200 OK"
+2025-03-24 16:03:00,341 - INFO - Use pytorch device_name: cpu
+2025-03-24 16:03:00,341 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-24 16:03:00,357 - INFO - Use pytorch device_name: cpu
+2025-03-24 16:03:00,357 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-24 16:03:03,453 - INFO - Successfully connected to Weaviate!
+2025-03-24 16:03:05,472 - INFO - Successfully connected to Weaviate!
+2025-03-24 16:03:05,473 - INFO - Received query: 'Who were pirs in Bengal?'
+2025-03-24 16:03:05,474 - INFO - Creating embedding for the query...
+2025-03-24 16:03:51,699 - INFO - Retrieving relevant document chunks from Weaviate...
+2025-03-24 16:03:51,699 - INFO - Generating answer using Ollama...
+2025-03-24 16:03:51,699 - INFO - Query processed successfully!
+2025-03-24 16:03:51,700 - INFO - Logged query: 'Who were pirs in Bengal?' | Time taken: 46.23 sec
+2025-03-24 16:03:51,702 - INFO - Weaviate connection closed.
+2025-03-24 16:40:57,689 - INFO - Frontend page loaded.
+2025-03-24 16:40:57,689 - INFO - Attempting to connect to Weaviate...
+2025-03-24 16:40:58,188 - INFO - HTTP Request: GET https://zjrqw1rwbc25okvovwg.c0.asia-southeast1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+2025-03-24 16:40:58,337 - INFO - HTTP Request: GET https://pypi.org/pypi/weaviate-client/json "HTTP/1.1 200 OK"
+2025-03-24 16:40:58,630 - INFO - Use pytorch device_name: cpu
+2025-03-24 16:40:58,630 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-24 16:41:03,328 - INFO - Successfully connected to Weaviate!
+2025-03-24 16:41:03,335 - INFO - Weaviate connection closed.
+2025-03-24 16:41:36,536 - INFO - Frontend page loaded.
+2025-03-24 16:41:36,536 - INFO - Attempting to connect to Weaviate...
+2025-03-24 16:41:37,050 - INFO - HTTP Request: GET https://zjrqw1rwbc25okvovwg.c0.asia-southeast1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+2025-03-24 16:41:37,098 - INFO - HTTP Request: GET https://pypi.org/pypi/weaviate-client/json "HTTP/1.1 200 OK"
+2025-03-24 16:41:37,372 - INFO - Use pytorch device_name: cpu
+2025-03-24 16:41:37,372 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-24 16:41:38,794 - INFO - Frontend page loaded.
+2025-03-24 16:41:38,794 - INFO - Attempting to connect to Weaviate...
+2025-03-24 16:41:39,218 - INFO - HTTP Request: GET https://zjrqw1rwbc25okvovwg.c0.asia-southeast1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+2025-03-24 16:41:39,266 - INFO - HTTP Request: GET https://pypi.org/pypi/weaviate-client/json "HTTP/1.1 200 OK"
+2025-03-24 16:41:39,613 - INFO - Use pytorch device_name: cpu
+2025-03-24 16:41:39,614 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-24 16:41:41,193 - INFO - Successfully connected to Weaviate!
+2025-03-24 16:41:44,389 - INFO - Successfully connected to Weaviate!
+2025-03-24 16:41:44,391 - INFO - Received query: 'What was the book Gulamgiri about?'
+2025-03-24 16:41:44,391 - INFO - Creating embedding for the query...
+2025-03-24 16:42:39,634 - INFO - Retrieving relevant document chunks from Weaviate...
+2025-03-24 16:42:39,634 - INFO - Generating answer using Ollama...
+2025-03-24 16:42:39,635 - INFO - Query processed successfully!
+2025-03-24 16:42:39,636 - INFO - Logged query: 'What was the book Gulamgiri about?' | Time taken: 55.24 sec
+2025-03-24 16:42:39,639 - INFO - Weaviate connection closed.
+2025-03-24 17:19:27,054 - INFO - Frontend page loaded.
+2025-03-24 17:19:27,054 - INFO - Attempting to connect to Weaviate...
+2025-03-24 17:19:27,512 - INFO - HTTP Request: GET https://zjrqw1rwbc25okvovwg.c0.asia-southeast1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+2025-03-24 17:19:27,676 - INFO - HTTP Request: GET https://pypi.org/pypi/weaviate-client/json "HTTP/1.1 200 OK"
+2025-03-24 17:19:27,929 - INFO - Use pytorch device_name: cpu
+2025-03-24 17:19:27,929 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-24 17:19:33,467 - INFO - Successfully connected to Weaviate!
+2025-03-24 17:19:33,475 - INFO - Weaviate connection closed.
+2025-03-24 17:20:11,981 - INFO - Frontend page loaded.
+2025-03-24 17:20:11,982 - INFO - Attempting to connect to Weaviate...
+2025-03-24 17:20:12,166 - INFO - Frontend page loaded.
+2025-03-24 17:20:12,166 - INFO - Attempting to connect to Weaviate...
+2025-03-24 17:20:12,304 - INFO - HTTP Request: GET https://zjrqw1rwbc25okvovwg.c0.asia-southeast1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+2025-03-24 17:20:12,366 - INFO - HTTP Request: GET https://pypi.org/pypi/weaviate-client/json "HTTP/1.1 200 OK"
+2025-03-24 17:20:12,774 - INFO - HTTP Request: GET https://zjrqw1rwbc25okvovwg.c0.asia-southeast1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+2025-03-24 17:20:12,800 - INFO - Use pytorch device_name: cpu
+2025-03-24 17:20:12,800 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-24 17:20:12,829 - INFO - HTTP Request: GET https://pypi.org/pypi/weaviate-client/json "HTTP/1.1 200 OK"
+2025-03-24 17:20:13,180 - INFO - Use pytorch device_name: cpu
+2025-03-24 17:20:13,180 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-24 17:20:17,608 - INFO - Successfully connected to Weaviate!
+2025-03-24 17:20:17,609 - INFO - Received query: 'what is a historical timeline?'
+2025-03-24 17:20:17,609 - INFO - Creating embedding for the query...
+2025-03-24 17:20:23,519 - INFO - Successfully connected to Weaviate!
+2025-03-24 17:21:12,103 - INFO - Retrieving relevant document chunks from Weaviate...
+2025-03-24 17:21:12,103 - INFO - Generating answer using Ollama...
+2025-03-24 17:21:12,103 - INFO - Query processed successfully!
+2025-03-24 17:21:12,105 - INFO - Logged query: 'what is a historical timeline?' | Time taken: 54.49 sec
+2025-03-24 17:21:12,109 - INFO - Weaviate connection closed.
+2025-03-24 17:23:04,345 - INFO - Frontend page loaded.
+2025-03-24 17:23:04,345 - INFO - Attempting to connect to Weaviate...
+2025-03-24 17:23:04,529 - INFO - Frontend page loaded.
+2025-03-24 17:23:04,529 - INFO - Attempting to connect to Weaviate...
+2025-03-24 17:23:04,686 - INFO - HTTP Request: GET https://zjrqw1rwbc25okvovwg.c0.asia-southeast1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+2025-03-24 17:23:04,735 - INFO - HTTP Request: GET https://pypi.org/pypi/weaviate-client/json "HTTP/1.1 200 OK"
+2025-03-24 17:23:04,830 - INFO - HTTP Request: GET https://zjrqw1rwbc25okvovwg.c0.asia-southeast1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+2025-03-24 17:23:04,882 - INFO - HTTP Request: GET https://pypi.org/pypi/weaviate-client/json "HTTP/1.1 200 OK"
+2025-03-24 17:23:05,085 - INFO - Use pytorch device_name: cpu
+2025-03-24 17:23:05,085 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-24 17:23:05,100 - INFO - Use pytorch device_name: cpu
+2025-03-24 17:23:05,100 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-24 17:23:09,391 - INFO - Successfully connected to Weaviate!
+2025-03-24 17:23:10,028 - INFO - Successfully connected to Weaviate!
+2025-03-24 17:23:10,038 - INFO - Weaviate connection closed.
